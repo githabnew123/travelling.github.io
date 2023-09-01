@@ -1,0 +1,41 @@
+/*navlink*/
+#atag{
+	color:white;
+
+}
+#atag:hover{
+	color:red;
+	background-color: white;
+}
+
+#cardimg{
+	width: 200px;
+	height: 142px;
+}
+
+#caroselimg{
+	width: 600px;
+	height: 300px;
+}
+
+#myimg{
+	
+	margin-top: 20px;
+	width: 1300px;
+	height:500px;
+}
+
+#over{
+	overflow: scroll;
+	width:500px;
+	height: 500px;
+}
+
+#clear{
+	clear: both;
+}
+
+#carimg{
+	width: 300px;
+	height: 200px;
+}
